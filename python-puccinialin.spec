@@ -6,7 +6,7 @@ License:        Apache-2.0 OR MIT
 URL:            https://github.com/konstin/puccinialin
 Source0:        https://files.pythonhosted.org/packages/source/p/puccinialin/puccinialin-%{version}.tar.gz
 BuildRequires:  pkgconfig(python3)
-
+BuildArch:	noarch
 BuildSystem:	python
 
 %description
