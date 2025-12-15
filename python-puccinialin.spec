@@ -13,3 +13,6 @@ BuildSystem:	python
 Install rust into a cache dir for rust-based builds 
 
 %files
+%{_bindir}/puccinialize
+%{python_sitelib}/puccinialin-%{version}.dist-info
+%{python_sitelib}/puccinialin
