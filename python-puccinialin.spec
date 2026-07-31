@@ -1,5 +1,5 @@
 Name:           python-puccinialin
-Version:        0.1.8
+Version:        0.1.14
 Release:        1
 Summary:        Development/Python
 License:        Apache-2.0 OR MIT
