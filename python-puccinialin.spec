@@ -1,6 +1,6 @@
 Name:           python-puccinialin
 Version:        0.1.14
-Release:        1
+Release:        2
 Summary:        Development/Python
 License:        Apache-2.0 OR MIT
 URL:            https://github.com/konstin/puccinialin
