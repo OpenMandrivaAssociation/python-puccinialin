@@ -6,6 +6,7 @@ License:        Apache-2.0 OR MIT
 URL:            https://github.com/konstin/puccinialin
 Source0:        https://files.pythonhosted.org/packages/source/p/puccinialin/puccinialin-%{version}.tar.gz
 BuildArch:	noarch
+BuildRequires:	python%{pyver}dist(flit-core)
 BuildSystem:	python
 # If we let the dependency generator do its job, we get a hard dependency
 # on httpx -- resulting in a circular dependency loop while bootstrapping
